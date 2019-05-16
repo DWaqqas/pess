@@ -45,7 +45,7 @@ $conn->close();
     <td><input type="text" name="callerName" id="callerName"></td>
   </tr>
   <tr>
-    <td>Contact No :</td>
+    <td>Contact Number :</td>
     <td><input type="text" name="contactNo" id="contactNo"></td>
   </tr>
   <tr>
